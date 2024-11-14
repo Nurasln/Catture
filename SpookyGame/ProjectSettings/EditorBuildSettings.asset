@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/\u0130ntro.unity"
+    guid: 5c06eddecfe9c4a43971478b66b96bba
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Corridor.unity
+    guid: 2067a7f0a7a4bfa42b86ecdeb956ae20
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: b10380ce3c0459a48bf4df28c8ca400d
+  - enabled: 1
+    path: Assets/Scenes/GoldenFish.unity
+    guid: 733b0e4ce6ac6174086fa505540cebb9
+  - enabled: 1
+    path: Assets/Scenes/LastCorridor.unity
+    guid: a368f735d1981054b9d5711cbd2eb86a
+  - enabled: 1
+    path: Assets/Scenes/FishCandyFinal.unity
+    guid: c9e21b5db38365d49b3659bdf96f6dda
+  - enabled: 1
+    path: Assets/Scenes/LossFinal.unity
+    guid: 78fc18ac4ed9aae4989d2b79b0e6fbc8
+  - enabled: 1
+    path: Assets/Scenes/CatchFinal.unity
+    guid: b395ff09f4d25df45bbb493afa2793c5
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 46ee58de90a1b34499a7ec123dd86fd7, type: 2}
